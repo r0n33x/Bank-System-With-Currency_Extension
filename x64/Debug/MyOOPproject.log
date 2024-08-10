@@ -1,0 +1,22 @@
+﻿  Source.cpp
+D:\Programming Advices Works\MyOOPproject\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming Advices Works\MyOOPproject\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming Advices Works\MyOOPproject\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming Advices Works\MyOOPproject\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming Advices Works\MyOOPproject\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming Advices Works\MyOOPproject\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming Advices Works\MyOOPproject\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+D:\Programming Advices Works\MyOOPproject\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Programming Advices Works\MyOOPproject\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programming Advices Works\MyOOPproject\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming Advices Works\MyOOPproject\clsBankClient.h(357,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Programming Advices Works\MyOOPproject\clsBankClient.h(363,28): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Programming Advices Works\MyOOPproject\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming Advices Works\MyOOPproject\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming Advices Works\MyOOPproject\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Programming Advices Works\MyOOPproject\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming Advices Works\MyOOPproject\clsFindCurrencyScreen.h(15,17): warning C4129: 'C': unrecognized character escape sequence
+D:\Programming Advices Works\MyOOPproject\clsUpdateCurrencyRateScreen.h(10,17): warning C4129: 'C': unrecognized character escape sequence
+D:\Programming Advices Works\MyOOPproject\clsUpdateCurrencyRateScreen.h(50,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming Advices Works\MyOOPproject\clsCurrencyCalculatorScreen.h(11,17): warning C4129: 'C': unrecognized character escape sequence
+  MyOOPproject.vcxproj -> D:\Programming Advices Works\MyOOPproject\x64\Debug\MyOOPproject.exe
